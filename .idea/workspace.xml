@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="4f4fa336-fec7-4b1f-bd8d-90cac57e409a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/firebase-web-api-key.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/firebase-web-api-key.txt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -94,7 +94,7 @@
       <workItem from="1573984521930" duration="332000" />
       <workItem from="1573984980782" duration="61000" />
       <workItem from="1573985047455" duration="443000" />
-      <workItem from="1573985874267" duration="3766000" />
+      <workItem from="1573985874267" duration="4316000" />
     </task>
     <task id="LOCAL-00001" summary="upload to repository">
       <created>1573984704631</created>
@@ -159,7 +159,14 @@
       <option name="project" value="LOCAL" />
       <updated>1573989529832</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="upload to repository">
+      <created>1573994694892</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1573994694892</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
