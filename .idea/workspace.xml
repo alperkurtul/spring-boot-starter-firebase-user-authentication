@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f98a6225-5e58-412f-811a-f0b17686b9cd" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/resources/firebase-web-api-key.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/firebase-web-api-key.txt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -84,9 +83,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1574001461616</updated>
-      <workItem from="1574001463379" duration="38000" />
+      <workItem from="1574001463379" duration="82000" />
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="upload to repository">
+      <created>1574001517566</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1574001517566</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
