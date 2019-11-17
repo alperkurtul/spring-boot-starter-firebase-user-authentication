@@ -14,7 +14,7 @@
     <!-- **************************************************************  -->
     <groupId>com.github.alperkurtul</groupId>
     <artifactId>spring-boot-starter-firebase-user-authentication</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>1.0.0.RELEASE</version>
 
     <name>Firebase User and Authentication</name>
     <description>This library is used for managing with Firebase User and Authentication System.</description>
