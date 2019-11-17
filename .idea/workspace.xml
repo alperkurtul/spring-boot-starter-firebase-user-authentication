@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f98a6225-5e58-412f-811a-f0b17686b9cd" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/resources/firebase-web-api-key.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/firebase-web-api-key.txt" afterDir="false" />
     </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,7 +14,13 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="ProjectId" id="1TkQ9PP7fG2YzTLsGqtbddzEIam" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -25,6 +32,19 @@
         </RuleState>
       </list>
     </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="UserAuthenticationImplTest" type="JUnit" factoryName="JUnit">
+      <module name="spring-boot-starter-firebase-user-authentication" />
+      <option name="PACKAGE_NAME" value="com.github.alperkurtul.firebaseuserauthentication" />
+      <option name="MAIN_CLASS_NAME" value="com.github.alperkurtul.firebaseuserauthentication.UserAuthenticationImplTest" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -51,8 +71,37 @@
       <option name="project" value="LOCAL" />
       <updated>1574000887193</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="upload to repository">
+      <created>1574001138650</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1574001138650</updated>
+    </task>
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f98a6225-5e58-412f-811a-f0b17686b9cd" name="Default Changelist" comment="" />
+      <created>1574001461616</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574001461616</updated>
+      <workItem from="1574001463379" duration="38000" />
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="upload to repository" />
