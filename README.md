@@ -15,6 +15,19 @@ Put a `firebase-web-api-key.txt` file in the root of classpath and specify `fire
 firebase-web-api-key : [your-firebase-project-web-api-key]
 ```
 
+In a `@Configuration` class in your application, create a `@Bean` for `UserAuthenticationServiceImpl` class.
+```java
+@Configuration
+public class DemoConfig {
+
+    @Bean
+    public UserAuthenticationServiceImpl userAuthenticationServiceImpl() {
+        return new UserAuthenticationServiceImpl();
+    }
+    
+}
+```
+
 ### Dependencies
 
 Primarily, you have to add `spring-boot-starter-web` dependency in your Spring Boot application.
