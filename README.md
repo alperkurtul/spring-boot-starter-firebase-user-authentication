@@ -49,49 +49,15 @@ Then, you have to also add this dependency in your `pom.xml`.
 
 ### and How to Use
 
-1) create a class for your Firebase Realtime Database `Document`
-2) annotate this class as `@FirebaseDocumentPath` and specify a path for your realtime database
-3) create a `String` property for your authentication idToken and annotate it as `@FirebaseUserAuthKey`
-4) create a property for the ID and annotate it with `@FirebaseDocumentId`
+Just simply use methods.
 
 ```java
-@FirebaseDocumentPath("/product")
-public class Product {
-
-    @FirebaseUserAuthKey
-    private String authKey;
-    
-    @FirebaseDocumentId
-    private String firebaseId;
-    
-    private String id;
-    private String name;
-    private BigDecimal price;
-
-}
+@Autowired
+private UserAuthenticationServiceImpl userAuthenticationServiceImpl;
 ```
 
-Then create a Repository class. This class must extend the `FirebaseRealtimeDbRepoServiceImpl` class.
-
 ```java
-@Repository
-public class ProductRepository extends FirebaseRealtimeDbRepoServiceImpl<Product, String> {
-}
-```
-
-At last, put `@EnableFirebaseRealtimeDatabase` just next to `@SpringBootApplication` in your main class of Spring Boot application.
-
-```java
-@EnableFirebaseRealtimeDatabase
-@SpringBootApplication
-public class DemoApplication {
-
-    public static void main(String[] args) {
-        SpringApplication.run(DemoApplication.class, args);
-    }
-
-
-}
+FirebaseSignInSignUpResponseBean firebaseSignInSignUpResponseBean = userAuthenticationServiceImpl.signInWithEmailAndPassword("test7@test.com", "test07");
 ```
 
 ### Demo
