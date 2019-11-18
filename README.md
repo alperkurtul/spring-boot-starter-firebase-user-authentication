@@ -1,5 +1,5 @@
 # `Firebase User Management and Authentication` in Spring Boot
-This project gives you the ability to use to `Firebase User Management and Authentication` methods. To achieve this, you just have to add the dependency and simply use the methods in your Spring Boot application. These are the list of methods you can use in this release(1.0.0):
+This project gives you the ability to use `Firebase User Management and Authentication` methods. To achieve this, you just have to add the dependency and simply use the methods in your Spring Boot application. These are the list of methods you can use in this release(1.0.0):
 
 - signUpWithEmailAndPassword
 - signInWithEmailAndPassword
