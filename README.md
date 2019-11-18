@@ -10,7 +10,7 @@ This project gives you the ability to use `Firebase User Management and Authenti
 
 ### Configuration
 
-Put a `firebase-web-api-key.txt` file in the root of classpath Add this property in your `application.properties`.
+Put a `firebase-web-api-key.txt` file in the root of classpath and specify `firebase-web-api-key : ` property in it.
 ```properties
 firebase-web-api-key : [your-firebase-project-web-api-key]
 ```
@@ -29,8 +29,8 @@ Then, you have to also add this dependency in your `pom.xml`.
 ```xml
 <dependency>
     <groupId>com.github.alperkurtul</groupId>
-    <artifactId>spring-boot-starter-firebase-realtime-database</artifactId>
-    <version>1.0.4.RELEASE</version>
+    <artifactId>spring-boot-starter-firebase-user-authentication</artifactId>
+    <version>1.0.0.RELEASE</version>
 </dependency>
 ```
 
