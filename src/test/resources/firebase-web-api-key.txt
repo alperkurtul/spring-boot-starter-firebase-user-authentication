@@ -1,1 +1,1 @@
-firebase-web-api-key : AAAA
+firebase-web-api-key :
