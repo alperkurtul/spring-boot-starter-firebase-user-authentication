@@ -157,10 +157,14 @@
     <option name="LAST_COMMIT_MESSAGE" value="commit to local repository" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="43" y="31" key="CommitChangelistDialog2" timestamp="1576768922663">
+    <state x="43" y="31" key="CommitChangelistDialog2" timestamp="1576768996635">
       <screen x="0" y="23" width="1440" height="816" />
     </state>
-    <state x="43" y="31" key="CommitChangelistDialog2/0.23.1440.816@0.23.1440.816" timestamp="1576768922663" />
+    <state x="43" y="31" key="CommitChangelistDialog2/0.23.1440.816@0.23.1440.816" timestamp="1576768996635" />
+    <state x="320" y="157" key="Vcs.Push.Dialog.v2" timestamp="1576769000241">
+      <screen x="0" y="23" width="1440" height="816" />
+    </state>
+    <state x="320" y="157" key="Vcs.Push.Dialog.v2/0.23.1440.816@0.23.1440.816" timestamp="1576769000241" />
     <state x="525" y="352" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1576768962415">
       <screen x="0" y="23" width="1440" height="816" />
     </state>
